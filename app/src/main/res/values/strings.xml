@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Laptop Catalog</string>
+    <string name="nama">Nama</string>
+    <string name="detail">Detail</string>
+    <string name="harga">Harga</string>
+    <string name="info">Info Lebih Lanjut</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="foto_laptop">Foto Laptop</string>
+    <string name="nama_saya">Mochammad Arya Salsabila</string>
+    <string name="email">Aryasalsabila789@gmail.com</string>
+    <string name="github_logo">Github Logo</string>
+    <string name="about">About</string>
+</resources>
